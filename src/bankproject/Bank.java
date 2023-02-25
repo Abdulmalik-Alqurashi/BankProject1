@@ -19,7 +19,7 @@ public class Bank {
         do {
 
             System.out.println("\n\t----------------- 'S Bank ----------------");
-            System.out.println("Please enter the number of your choice (enter 0 to exit) : ");
+            System.out.println("Please enter the number of your choice (enter 8 to exit) : ");
             System.out.println("1. Create a new account.");
             System.out.println("2. Deposit an amount on an existing account. ");
             System.out.println("3. Withdrawal an amount from an existing account.");
